@@ -1,3 +1,3 @@
 # cmstest
 
-SSH test
+test the SSH key
